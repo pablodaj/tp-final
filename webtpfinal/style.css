@@ -1,0 +1,41 @@
+.nav{
+    list-style-type: none;
+    display: flex;
+    text-decoration: none;
+}
+.footer{
+    background-color: gray;
+    color: white;
+    padding: 3%;
+}
+.contnav{
+    margin: 1%;
+    padding: 1%;
+    border-radius: 3%;
+    background-color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}  
+.sem{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 200%;
+    color: white;
+    font-style: oblique;
+    margin-top: 0%;
+}
+.sed{
+    color: white;
+    padding: 1%;
+    font-family: sans-serif;
+    margin-bottom: 0%;
+}
+.cuerpo{
+    background-image: url("./pictograma.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.vinculo{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+}
